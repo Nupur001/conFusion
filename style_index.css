@@ -1,0 +1,29 @@
+.row_content{
+	margin:0px auto;
+	
+	border-bottom: 2px ridge;
+	border-top: 2px ridge;
+
+
+}
+
+.row_header{
+	border-radius: 0px;
+	background-color: #BA55D3;
+	color:white;
+	padding:0px;
+	margin-bottom: 0px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.navbar-dark{
+     background-color: #512DA8;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
