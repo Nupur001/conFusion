@@ -8,10 +8,12 @@
 }
 
 .row_header{
+	min-height:150px;
+	align-content: center;
 	border-radius: 0px;
-	background-color: #BA55D3;
+	background-color: #8A86E9;
 	color:white;
-	padding:0px;
+	
 	margin-bottom: 0px;
 }
 
